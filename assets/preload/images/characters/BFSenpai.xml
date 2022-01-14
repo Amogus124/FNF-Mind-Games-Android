@@ -1,0 +1,74 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="">
+	<SubTexture name="SENBF CUT DEBUG0000" x="0" y="0" width="351" height="418" pivotX="-13.85" pivotY="2.8"/>
+	<SubTexture name="SENBF Idle0000" x="351" y="0" width="365" height="407" pivotX="5.3" pivotY="0" frameX="0" frameY="-11" frameWidth="367" frameHeight="418"/>
+	<SubTexture name="SENBF Idle0001" x="351" y="0" width="365" height="407" frameX="0" frameY="-11" frameWidth="367" frameHeight="418"/>
+	<SubTexture name="SENBF Idle0002" x="718" y="0" width="364" height="412" frameX="-3" frameY="-4" frameWidth="367" frameHeight="418"/>
+	<SubTexture name="SENBF Idle0003" x="718" y="0" width="364" height="412" frameX="-3" frameY="-4" frameWidth="367" frameHeight="418"/>
+	<SubTexture name="SENBF Idle0004" x="1085" y="0" width="362" height="415" frameX="-5" frameY="-2" frameWidth="367" frameHeight="418"/>
+	<SubTexture name="SENBF Idle0005" x="1085" y="0" width="362" height="415" frameX="-5" frameY="-2" frameWidth="367" frameHeight="418"/>
+	<SubTexture name="SENBF Idle0006" x="1452" y="0" width="350" height="418" frameX="-5" frameY="0" frameWidth="367" frameHeight="418"/>
+	<SubTexture name="SENBF Idle0007" x="1452" y="0" width="350" height="418" frameX="-5" frameY="0" frameWidth="367" frameHeight="418"/>
+	<SubTexture name="SENBF Idle0008" x="1805" y="0" width="350" height="418" frameX="-5" frameY="0" frameWidth="367" frameHeight="418"/>
+	<SubTexture name="SENBF Idle0009" x="1805" y="0" width="350" height="418" frameX="-5" frameY="0" frameWidth="367" frameHeight="418"/>
+	<SubTexture name="SENBF Idle0010" x="1805" y="0" width="350" height="418" frameX="-5" frameY="0" frameWidth="367" frameHeight="418"/>
+	<SubTexture name="SENBF Idle0011" x="1805" y="0" width="350" height="418" frameX="-5" frameY="0" frameWidth="367" frameHeight="418"/>
+	<SubTexture name="SENBF Idle0012" x="1805" y="0" width="350" height="418" frameX="-5" frameY="0" frameWidth="367" frameHeight="418"/>
+	<SubTexture name="SENBF Idle0013" x="1805" y="0" width="350" height="418" frameX="-5" frameY="0" frameWidth="367" frameHeight="418"/>
+	<SubTexture name="SENBF Sing Down0000" x="2155" y="0" width="350" height="365" pivotX="19.9" pivotY="-48.4" frameX="0" frameY="-5" frameWidth="349" frameHeight="370"/>
+	<SubTexture name="SENBF Sing Down0001" x="2155" y="0" width="350" height="365" frameX="0" frameY="-5" frameWidth="349" frameHeight="370"/>
+	<SubTexture name="SENBF Sing Down0002" x="2508" y="0" width="339" height="370" frameX="-4" frameY="0" frameWidth="349" frameHeight="370"/>
+	<SubTexture name="SENBF Sing Down0003" x="2508" y="0" width="339" height="370" frameX="-4" frameY="0" frameWidth="349" frameHeight="370"/>
+	<SubTexture name="SENBF Sing Down0004" x="2508" y="0" width="339" height="370" frameX="-4" frameY="0" frameWidth="349" frameHeight="370"/>
+	<SubTexture name="SENBF Sing Down0005" x="2508" y="0" width="339" height="370" frameX="-4" frameY="0" frameWidth="349" frameHeight="370"/>
+	<SubTexture name="SENBF Sing Down0006" x="2508" y="0" width="339" height="370" frameX="-4" frameY="0" frameWidth="349" frameHeight="370"/>
+	<SubTexture name="SENBF Sing Down0007" x="3528" y="0" width="339" height="370" frameX="-4" frameY="0" frameWidth="349" frameHeight="370"/>
+	<SubTexture name="SENBF Sing Down0008" x="2508" y="0" width="339" height="370" frameX="-4" frameY="0" frameWidth="349" frameHeight="370"/>
+	<SubTexture name="SENBF Sing Down0009" x="2508" y="0" width="339" height="370" frameX="-4" frameY="0" frameWidth="349" frameHeight="370"/>
+	<SubTexture name="SENBF Sing Down0010" x="2508" y="0" width="339" height="370" frameX="-4" frameY="0" frameWidth="349" frameHeight="370"/>
+	<SubTexture name="SENBF Sing Down0011" x="2508" y="0" width="339" height="370" frameX="-4" frameY="0" frameWidth="349" frameHeight="370"/>
+	<SubTexture name="SENBF Sing Down0012" x="2508" y="0" width="339" height="370" frameX="-4" frameY="0" frameWidth="349" frameHeight="370"/>
+	<SubTexture name="SENBF Sing Down0013" x="2508" y="0" width="339" height="370" frameX="-4" frameY="0" frameWidth="349" frameHeight="370"/>
+	<SubTexture name="SENBF Sing Left0000" x="0" y="418" width="341" height="403" pivotX="26.2" pivotY="-16.05" frameX="0" frameY="0" frameWidth="344" frameHeight="402"/>
+	<SubTexture name="SENBF Sing Left0001" x="0" y="418" width="341" height="403" frameX="0" frameY="0" frameWidth="344" frameHeight="402"/>
+	<SubTexture name="SENBF Sing Left0002" x="344" y="418" width="343" height="402" frameX="-2" frameY="0" frameWidth="344" frameHeight="402"/>
+	<SubTexture name="SENBF Sing Left0003" x="344" y="418" width="343" height="402" frameX="-2" frameY="0" frameWidth="344" frameHeight="402"/>
+	<SubTexture name="SENBF Sing Left0004" x="344" y="418" width="343" height="402" frameX="-2" frameY="0" frameWidth="344" frameHeight="402"/>
+	<SubTexture name="SENBF Sing Left0005" x="344" y="418" width="343" height="402" frameX="-2" frameY="0" frameWidth="344" frameHeight="402"/>
+	<SubTexture name="SENBF Sing Left0006" x="344" y="418" width="343" height="402" frameX="-2" frameY="0" frameWidth="344" frameHeight="402"/>
+	<SubTexture name="SENBF Sing Left0007" x="344" y="418" width="343" height="402" frameX="-2" frameY="0" frameWidth="344" frameHeight="402"/>
+	<SubTexture name="SENBF Sing Left0008" x="344" y="418" width="343" height="402" frameX="-2" frameY="0" frameWidth="344" frameHeight="402"/>
+	<SubTexture name="SENBF Sing Left0009" x="344" y="418" width="343" height="402" frameX="-2" frameY="0" frameWidth="344" frameHeight="402"/>
+	<SubTexture name="SENBF Sing Left0010" x="344" y="418" width="343" height="402" frameX="-2" frameY="0" frameWidth="344" frameHeight="402"/>
+	<SubTexture name="SENBF Sing Left0011" x="344" y="418" width="343" height="402" frameX="-2" frameY="0" frameWidth="344" frameHeight="402"/>
+	<SubTexture name="SENBF Sing Left0012" x="344" y="418" width="343" height="402" frameX="-2" frameY="0" frameWidth="344" frameHeight="402"/>
+	<SubTexture name="SENBF Sing Left0013" x="344" y="418" width="343" height="402" frameX="-2" frameY="0" frameWidth="344" frameHeight="402"/>
+	<SubTexture name="SENBF Sing Right0000" x="690" y="420" width="362" height="418" pivotX="1.1" pivotY="1.1" frameX="-2" frameY="0" frameWidth="363" frameHeight="419"/>
+	<SubTexture name="SENBF Sing Right0001" x="690" y="420" width="362" height="418" frameX="-2" frameY="0" frameWidth="363" frameHeight="419"/>
+	<SubTexture name="SENBF Sing Right0002" x="1055" y="420" width="357" height="417" frameX="0" frameY="-1" frameWidth="363" frameHeight="419"/>
+	<SubTexture name="SENBF Sing Right0003" x="1055" y="420" width="357" height="417" frameX="0" frameY="-1" frameWidth="363" frameHeight="419"/>
+	<SubTexture name="SENBF Sing Right0004" x="1055" y="420" width="357" height="417" frameX="0" frameY="-1" frameWidth="363" frameHeight="419"/>
+	<SubTexture name="SENBF Sing Right0005" x="1055" y="420" width="357" height="417" frameX="0" frameY="-1" frameWidth="363" frameHeight="419"/>
+	<SubTexture name="SENBF Sing Right0006" x="1055" y="420" width="357" height="417" frameX="0" frameY="-1" frameWidth="363" frameHeight="419"/>
+	<SubTexture name="SENBF Sing Right0007" x="1055" y="420" width="357" height="417" frameX="0" frameY="-1" frameWidth="363" frameHeight="419"/>
+	<SubTexture name="SENBF Sing Right0008" x="1055" y="420" width="357" height="417" frameX="0" frameY="-1" frameWidth="363" frameHeight="419"/>
+	<SubTexture name="SENBF Sing Right0009" x="1055" y="420" width="357" height="417" frameX="0" frameY="-1" frameWidth="363" frameHeight="419"/>
+	<SubTexture name="SENBF Sing Right0010" x="1055" y="420" width="357" height="417" frameX="0" frameY="-1" frameWidth="363" frameHeight="419"/>
+	<SubTexture name="SENBF Sing Right0011" x="1055" y="420" width="357" height="417" frameX="0" frameY="-1" frameWidth="363" frameHeight="419"/>
+	<SubTexture name="SENBF Sing Right0012" x="1055" y="420" width="357" height="417" frameX="0" frameY="-1" frameWidth="363" frameHeight="419"/>
+	<SubTexture name="SENBF Sing Right0013" x="1055" y="420" width="357" height="417" frameX="0" frameY="-1" frameWidth="363" frameHeight="419"/>
+	<SubTexture name="SENBF Sing Up0000" x="1416" y="421" width="333" height="460" pivotX="-4.8" pivotY="42.6" frameX="-7" frameY="0" frameWidth="346" frameHeight="459"/>
+	<SubTexture name="SENBF Sing Up0001" x="1416" y="421" width="333" height="460" frameX="-7" frameY="0" frameWidth="346" frameHeight="459"/>
+	<SubTexture name="SENBF Sing Up0002" x="1753" y="421" width="345" height="450" frameX="0" frameY="-10" frameWidth="346" frameHeight="459"/>
+	<SubTexture name="SENBF Sing Up0003" x="1753" y="421" width="345" height="450" frameX="0" frameY="-10" frameWidth="346" frameHeight="459"/>
+	<SubTexture name="SENBF Sing Up0004" x="1753" y="421" width="345" height="450" frameX="0" frameY="-10" frameWidth="346" frameHeight="459"/>
+	<SubTexture name="SENBF Sing Up0005" x="1753" y="421" width="345" height="450" frameX="0" frameY="-10" frameWidth="346" frameHeight="459"/>
+	<SubTexture name="SENBF Sing Up0006" x="1753" y="421" width="345" height="450" frameX="0" frameY="-10" frameWidth="346" frameHeight="459"/>
+	<SubTexture name="SENBF Sing Up0007" x="1753" y="421" width="345" height="450" frameX="0" frameY="-10" frameWidth="346" frameHeight="459"/>
+	<SubTexture name="SENBF Sing Up0008" x="1753" y="421" width="345" height="450" frameX="0" frameY="-10" frameWidth="346" frameHeight="459"/>
+	<SubTexture name="SENBF Sing Up0009" x="1753" y="421" width="345" height="450" frameX="0" frameY="-10" frameWidth="346" frameHeight="459"/>
+	<SubTexture name="SENBF Sing Up0010" x="1757" y="421" width="345" height="450" frameX="0" frameY="-10" frameWidth="346" frameHeight="459"/>
+	<SubTexture name="SENBF Sing Up0011" x="1753" y="421" width="345" height="450" frameX="0" frameY="-10" frameWidth="346" frameHeight="459"/>
+	<SubTexture name="SENBF Sing Up0012" x="1753" y="421" width="345" height="450" frameX="0" frameY="-10" frameWidth="346" frameHeight="459"/>
+	<SubTexture name="SENBF Sing Up0013" x="1753" y="421" width="345" height="450" frameX="0" frameY="-10" frameWidth="346" frameHeight="459"/>
+</TextureAtlas>
